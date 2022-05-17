@@ -1,0 +1,49 @@
+.navItem{
+  display: inline;
+  padding: 10px;
+  
+  justify-content: right;
+}
+#textContainer{
+  justify-content: left;
+}
+#logoText{
+color: rgb(248, 244, 244);
+position: absolute;
+top: 0;
+left: 0;
+margin-top: 0;
+margin-left: 5%;
+}
+body{
+  margin: 0px;
+}
+ul{
+  margin: 0;
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+
+.navContainer{
+  height: 100%;
+  display: flex;
+  justify-content: right;
+  margin-right:4vw ;
+}
+a:hover{
+  border-bottom: 3px solid rgb(253, 251, 251);
+}
+.containNav{
+  position: fixed;
+  top: 0;
+  height: 5%;
+  background-color: rgb(5, 5, 5);
+  width: 100%;
+  border-bottom: .5px rgb(251, 249, 249) solid;
+}
+a{
+  font-weight: bold;
+  
+  color: rgb(247, 244, 244);
+  text-decoration: none;
+}

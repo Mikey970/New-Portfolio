@@ -1,0 +1,32 @@
+.homeText{
+  
+  margin: 0 auto;
+  letter-spacing: .5rem;
+  font-size: xx-large;
+  padding: 50px;
+  margin-left:50vh ;
+  line-height: 5rem;
+  color: rgb(21, 21, 21);
+  font-family: 'Chakra Petch', sans-serif;
+}
+.homeImg{
+  margin: 0 auto;
+  border: 1px white solid;
+  border-radius: 50px;
+}
+body{
+  background-color: rgb(255, 253, 253);
+}
+.h1Home{
+ font-size: 50px;
+ font-family: 'Chakra Petch', sans-serif;
+}
+.contactButton{
+  font-weight: bold;
+  border-radius: 20px;
+  border: 3px solid black;
+height: 50px;
+width: 10%;
+background-color: white;
+font-family: 'Chakra Petch';
+}
